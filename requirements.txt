@@ -4,3 +4,4 @@ python-multipart
 pymysql
 python-dotenv
 sqlalchemy
+pydantic[email]
