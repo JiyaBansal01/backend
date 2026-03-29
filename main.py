@@ -40,6 +40,7 @@ app.add_middleware(
         "http://localhost:3000",   # React dev server
         "http://localhost:5173",   # Vite dev server
         "http://127.0.0.1:3000",
+        "https://flipkart-clone-two-sigma.vercel.app/"
     ],
     allow_credentials=True,
     allow_methods=["*"],           # Allow GET, POST, PUT, DELETE etc.
